@@ -1,0 +1,1 @@
+F:\.sys\PyGrabber\csharp\BotController1\bin\Release\net10.0-windows\win-x64\publish\bot_controller1.exe
